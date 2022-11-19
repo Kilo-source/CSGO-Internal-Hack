@@ -1,0 +1,20 @@
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Trigger Bot.exe
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Trigger Bot.deps.json
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Trigger Bot.runtimeconfig.json
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Trigger Bot.dll
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Trigger Bot.pdb
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\MaterialSkin.dll
+C:\Users\ESGaming\source\repos\Trigger Bot\bin\Debug\net6.0-windows\Memory.dll
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.csproj.AssemblyReference.cache
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger_Bot.Form1.resources
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.csproj.GenerateResource.cache
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.AssemblyInfoInputs.cache
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.AssemblyInfo.cs
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.csproj.CoreCompileInputs.cache
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.csproj.CopyComplete
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.dll
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\refint\Trigger Bot.dll
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.pdb
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\Trigger Bot.genruntimeconfig.cache
+C:\Users\ESGaming\source\repos\Trigger Bot\obj\Debug\net6.0-windows\ref\Trigger Bot.dll
