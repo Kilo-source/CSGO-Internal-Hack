@@ -8,7 +8,9 @@ Features:
 <lo>
 
 <h1>Usage</h1>
-Open CSGO, Launch TriggerBot.exe, and turn on hacks u prefere. use button 'SAKRIJI SE' for minimizing and 'VAC HAVARIJA' for exiting cheat
+Open CSGO, Launch TriggerBot.exe, and turn on hacks u prefere. use button 'SAKRIJI SE' for minimizing and 'VAC HAVARIJA' for exiting cheat.</br>
+Trigger bot will automatically shoot if you hold [SHIFT] key.✅</br>
+Use [INSERT] key for showing cheat gui and button for hidding it!📝
 
 ![image](https://user-images.githubusercontent.com/68663759/202870859-8bf528ed-4b8b-4076-95db-2679432415f3.png)
 
